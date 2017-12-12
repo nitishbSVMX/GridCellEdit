@@ -1,0 +1,2729 @@
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-call-merge::before {
+    content: 'call_merge';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-call-missed::before {
+    content: 'call_missed';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-call-missed-outgoing::before {
+    content: 'call_missed_outgoing';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-call-received::before {
+    content: 'call_received';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-call-split::before {
+    content: 'call_split';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-chat::before {
+    content: 'chat';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-chat-bubble::before {
+    content: 'chat_bubble';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-chat-bubble-outline::before {
+    content: 'chat_bubble_outline';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-clear-all::before {
+    content: 'clear_all';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-comment::before {
+    content: 'comment';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-contact-mail::before {
+    content: 'contact_mail';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-contact-phone::before {
+    content: 'contact_phone';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-contacts::before {
+    content: 'contacts';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dialer-sip::before {
+    content: 'dialer_sip';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dialpad::before {
+    content: 'dialpad';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-email::before {
+    content: 'email';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-forum::before {
+    content: 'forum';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-import-contacts::before {
+    content: 'import_contacts';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-import-export::before {
+    content: 'import_export';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-invert-colors-off::before {
+    content: 'invert_colors_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-live-help::before {
+    content: 'live_help';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-off::before {
+    content: 'location_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-on::before {
+    content: 'location_on';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mail-outline::before {
+    content: 'mail_outline';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-message::before {
+    content: 'message';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-no-sim::before {
+    content: 'no_sim';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone::before {
+    content: 'phone';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-erase::before {
+    content: 'phonelink_erase';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-lock::before {
+    content: 'phonelink_lock';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-ring::before {
+    content: 'phonelink_ring';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-setup::before {
+    content: 'phonelink_setup';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-portable-wifi-off::before {
+    content: 'portable_wifi_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-present-to-all::before {
+    content: 'present_to_all';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ring-volume::before {
+    content: 'ring_volume';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rss-feed::before {
+    content: 'rss_feed';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-screen-share::before {
+    content: 'screen_share';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-speaker-phone::before {
+    content: 'speaker_phone';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-stay-current-landscape::before {
+    content: 'stay_current_landscape';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-stay-current-portrait::before {
+    content: 'stay_current_portrait';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-stay-primary-landscape::before {
+    content: 'stay_primary_landscape';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-stay-primary-portrait::before {
+    content: 'stay_primary_portrait';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-stop-screen-share::before {
+    content: 'stop_screen_share';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-swap-calls::before {
+    content: 'swap_calls';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-textsms::before {
+    content: 'textsms';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-voicemail::before {
+    content: 'voicemail';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vpn-key::before {
+    content: 'vpn_key';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add::before {
+    content: 'add';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-box::before {
+    content: 'add_box';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-circle::before {
+    content: 'add_circle';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-circle-outline::before {
+    content: 'add_circle_outline';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-archive::before {
+    content: 'archive';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-backspace::before {
+    content: 'backspace';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-block::before {
+    content: 'block';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-clear::before {
+    content: 'clear';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-content-copy::before {
+    content: 'content_copy';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-content-cut::before {
+    content: 'content_cut';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-content-paste::before {
+    content: 'content_paste';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-create::before {
+    content: 'create';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-delete-sweep::before {
+    content: 'delete_sweep';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-drafts::before {
+    content: 'drafts';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-list::before {
+    content: 'filter_list';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flag::before {
+    content: 'flag';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-font-download::before {
+    content: 'font_download';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-forward::before {
+    content: 'forward';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gesture::before {
+    content: 'gesture';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-inbox::before {
+    content: 'inbox';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-link::before {
+    content: 'link';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-low-priority::before {
+    content: 'low_priority';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mail::before {
+    content: 'mail';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-markunread::before {
+    content: 'markunread';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-move-to-inbox::before {
+    content: 'move_to_inbox';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-next-week::before {
+    content: 'next_week';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-redo::before {
+    content: 'redo';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-remove::before {
+    content: 'remove';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-remove-circle::before {
+    content: 'remove_circle';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-remove-circle-outline::before {
+    content: 'remove_circle_outline';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-reply::before {
+    content: 'reply';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-reply-all::before {
+    content: 'reply_all';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-report::before {
+    content: 'report';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-save::before {
+    content: 'save';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-select-all::before {
+    content: 'select_all';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-send::before {
+    content: 'send';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sort::before {
+    content: 'sort';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-text-format::before {
+    content: 'text_format';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-unarchive::before {
+    content: 'unarchive';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-undo::before {
+    content: 'undo';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-weekend::before {
+    content: 'weekend';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-access-alarm::before {
+    content: 'access_alarm';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-access-alarms::before {
+    content: 'access_alarms';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-access-time::before {
+    content: 'access_time';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-alarm::before {
+    content: 'add_alarm';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airplanemode-active::before {
+    content: 'airplanemode_active';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airplanemode-inactive::before {
+    content: 'airplanemode_inactive';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-battery-alert::before {
+    content: 'battery_alert';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-battery-charging-full::before {
+    content: 'battery_charging_full';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-battery-full::before {
+    content: 'battery_full';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-battery-std::before {
+    content: 'battery_std';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-battery-unknown::before {
+    content: 'battery_unknown';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth::before {
+    content: 'bluetooth';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth-connected::before {
+    content: 'bluetooth_connected';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth-disabled::before {
+    content: 'bluetooth_disabled';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth-searching::before {
+    content: 'bluetooth_searching';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-auto::before {
+    content: 'brightness_auto';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-high::before {
+    content: 'brightness_high';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-low::before {
+    content: 'brightness_low';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-medium::before {
+    content: 'brightness_medium';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-data-usage::before {
+    content: 'data_usage';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-developer-mode::before {
+    content: 'developer_mode';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-devices::before {
+    content: 'devices';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dvr::before {
+    content: 'dvr';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gps-fixed::before {
+    content: 'gps_fixed';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gps-not-fixed::before {
+    content: 'gps_not_fixed';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gps-off::before {
+    content: 'gps_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-graphic-eq::before {
+    content: 'graphic_eq';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-disabled::before {
+    content: 'location_disabled';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-searching::before {
+    content: 'location_searching';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-cell::before {
+    content: 'network_cell';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-wifi::before {
+    content: 'network_wifi';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-nfc::before {
+    content: 'nfc';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-screen-lock-landscape::before {
+    content: 'screen_lock_landscape';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-screen-lock-portrait::before {
+    content: 'screen_lock_portrait';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-screen-lock-rotation::before {
+    content: 'screen_lock_rotation';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-screen-rotation::before {
+    content: 'screen_rotation';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sd-storage::before {
+    content: 'sd_storage';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-settings-system-daydream::before {
+    content: 'settings_system_daydream';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-cellular-4-bar::before {
+    content: 'signal_cellular_4_bar';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-cellular-connected-no-internet-4-bar::before {
+    content: 'signal_cellular_connected_no_internet_4_bar';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-cellular-no-sim::before {
+    content: 'signal_cellular_no_sim';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-cellular-null::before {
+    content: 'signal_cellular_null';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-cellular-off::before {
+    content: 'signal_cellular_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-wifi-4-bar::before {
+    content: 'signal_wifi_4_bar';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-wifi-4-bar-lock::before {
+    content: 'signal_wifi_4_bar_lock';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-signal-wifi-off::before {
+    content: 'signal_wifi_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-storage::before {
+    content: 'storage';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-usb::before {
+    content: 'usb';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wallpaper::before {
+    content: 'wallpaper';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-widgets::before {
+    content: 'widgets';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wifi-lock::before {
+    content: 'wifi_lock';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wifi-tethering::before {
+    content: 'wifi_tethering';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-attach-file::before {
+    content: 'attach_file';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-attach-money::before {
+    content: 'attach_money';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-all::before {
+    content: 'border_all';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-bottom::before {
+    content: 'border_bottom';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-clear::before {
+    content: 'border_clear';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-color::before {
+    content: 'border_color';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-horizontal::before {
+    content: 'border_horizontal';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-inner::before {
+    content: 'border_inner';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-left::before {
+    content: 'border_left';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-outer::before {
+    content: 'border_outer';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-right::before {
+    content: 'border_right';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-style::before {
+    content: 'border_style';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-top::before {
+    content: 'border_top';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-border-vertical::before {
+    content: 'border_vertical';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bubble-chart::before {
+    content: 'bubble_chart';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-drag-handle::before {
+    content: 'drag_handle';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-align-center::before {
+    content: 'format_align_center';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-align-justify::before {
+    content: 'format_align_justify';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-align-left::before {
+    content: 'format_align_left';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-align-right::before {
+    content: 'format_align_right';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-bold::before {
+    content: 'format_bold';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-clear::before {
+    content: 'format_clear';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-color-fill::before {
+    content: 'format_color_fill';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-color-reset::before {
+    content: 'format_color_reset';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-color-text::before {
+    content: 'format_color_text';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-indent-decrease::before {
+    content: 'format_indent_decrease';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-indent-increase::before {
+    content: 'format_indent_increase';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-italic::before {
+    content: 'format_italic';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-line-spacing::before {
+    content: 'format_line_spacing';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-list-bulleted::before {
+    content: 'format_list_bulleted';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-list-numbered::before {
+    content: 'format_list_numbered';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-paint::before {
+    content: 'format_paint';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-quote::before {
+    content: 'format_quote';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-shapes::before {
+    content: 'format_shapes';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-size::before {
+    content: 'format_size';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-strikethrough::before {
+    content: 'format_strikethrough';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-textdirection-l-to-r::before {
+    content: 'format_textdirection_l_to_r';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-textdirection-r-to-l::before {
+    content: 'format_textdirection_r_to_l';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-format-underlined::before {
+    content: 'format_underlined';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-functions::before {
+    content: 'functions';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-highlight::before {
+    content: 'highlight';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-chart::before {
+    content: 'insert_chart';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-comment::before {
+    content: 'insert_comment';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-drive-file::before {
+    content: 'insert_drive_file';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-emoticon::before {
+    content: 'insert_emoticon';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-invitation::before {
+    content: 'insert_invitation';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-link::before {
+    content: 'insert_link';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-insert-photo::before {
+    content: 'insert_photo';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-linear-scale::before {
+    content: 'linear_scale';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-merge-type::before {
+    content: 'merge_type';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mode-comment::before {
+    content: 'mode_comment';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mode-edit::before {
+    content: 'mode_edit';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-monetization-on::before {
+    content: 'monetization_on';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-money-off::before {
+    content: 'money_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-multiline-chart::before {
+    content: 'multiline_chart';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pie-chart::before {
+    content: 'pie_chart';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pie-chart-outlined::before {
+    content: 'pie_chart_outlined';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-publish::before {
+    content: 'publish';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-short-text::before {
+    content: 'short_text';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-show-chart::before {
+    content: 'show_chart';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-space-bar::before {
+    content: 'space_bar';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-strikethrough-s::before {
+    content: 'strikethrough_s';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-text-fields::before {
+    content: 'text_fields';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-title::before {
+    content: 'title';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vertical-align-bottom::before {
+    content: 'vertical_align_bottom';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vertical-align-center::before {
+    content: 'vertical_align_center';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vertical-align-top::before {
+    content: 'vertical_align_top';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wrap-text::before {
+    content: 'wrap_text';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-attachment::before {
+    content: 'attachment';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud::before {
+    content: 'cloud';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-circle::before {
+    content: 'cloud_circle';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-done::before {
+    content: 'cloud_done';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-download::before {
+    content: 'cloud_download';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-off::before {
+    content: 'cloud_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-queue::before {
+    content: 'cloud_queue';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cloud-upload::before {
+    content: 'cloud_upload';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-create-new-folder::before {
+    content: 'create_new_folder';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-file-download::before {
+    content: 'file_download';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-file-upload::before {
+    content: 'file_upload';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder::before {
+    content: 'folder';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-open::before {
+    content: 'folder_open';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-shared::before {
+    content: 'folder_shared';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cast::before {
+    content: 'cast';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cast-connected::before {
+    content: 'cast_connected';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-computer::before {
+    content: 'computer';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-desktop-mac::before {
+    content: 'desktop_mac';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-desktop-windows::before {
+    content: 'desktop_windows';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-developer-board::before {
+    content: 'developer_board';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-device-hub::before {
+    content: 'device_hub';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-devices-other::before {
+    content: 'devices_other';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dock::before {
+    content: 'dock';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gamepad::before {
+    content: 'gamepad';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-headset::before {
+    content: 'headset';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-headset-mic::before {
+    content: 'headset_mic';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard::before {
+    content: 'keyboard';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-down::before {
+    content: 'keyboard_arrow_down';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-left::before {
+    content: 'keyboard_arrow_left';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-right::before {
+    content: 'keyboard_arrow_right';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-arrow-up::before {
+    content: 'keyboard_arrow_up';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-backspace::before {
+    content: 'keyboard_backspace';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-capslock::before {
+    content: 'keyboard_capslock';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-hide::before {
+    content: 'keyboard_hide';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-return::before {
+    content: 'keyboard_return';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-tab::before {
+    content: 'keyboard_tab';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-keyboard-voice::before {
+    content: 'keyboard_voice';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop::before {
+    content: 'laptop';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-chromebook::before {
+    content: 'laptop_chromebook';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-mac::before {
+    content: 'laptop_mac';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-laptop-windows::before {
+    content: 'laptop_windows';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-memory::before {
+    content: 'memory';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mouse::before {
+    content: 'mouse';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-android::before {
+    content: 'phone_android';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-iphone::before {
+    content: 'phone_iphone';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink::before {
+    content: 'phonelink';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phonelink-off::before {
+    content: 'phonelink_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-power-input::before {
+    content: 'power_input';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-router::before {
+    content: 'router';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-scanner::before {
+    content: 'scanner';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-security::before {
+    content: 'security';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sim-card::before {
+    content: 'sim_card';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smartphone::before {
+    content: 'smartphone';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-speaker::before {
+    content: 'speaker';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-speaker-group::before {
+    content: 'speaker_group';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet::before {
+    content: 'tablet';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet-android::before {
+    content: 'tablet_android';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tablet-mac::before {
+    content: 'tablet_mac';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-toys::before {
+    content: 'toys';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tv::before {
+    content: 'tv';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-videogame-asset::before {
+    content: 'videogame_asset';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-watch::before {
+    content: 'watch';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-a-photo::before {
+    content: 'add_a_photo';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-to-photos::before {
+    content: 'add_to_photos';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-adjust::before {
+    content: 'adjust';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-assistant::before {
+    content: 'assistant';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-assistant-photo::before {
+    content: 'assistant_photo';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-audiotrack::before {
+    content: 'audiotrack';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-circular::before {
+    content: 'blur_circular';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-linear::before {
+    content: 'blur_linear';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-off::before {
+    content: 'blur_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-blur-on::before {
+    content: 'blur_on';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-1::before {
+    content: 'brightness_1';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-2::before {
+    content: 'brightness_2';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-3::before {
+    content: 'brightness_3';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-4::before {
+    content: 'brightness_4';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-5::before {
+    content: 'brightness_5';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-6::before {
+    content: 'brightness_6';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brightness-7::before {
+    content: 'brightness_7';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-broken-image::before {
+    content: 'broken_image';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-brush::before {
+    content: 'brush';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-burst-mode::before {
+    content: 'burst_mode';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera::before {
+    content: 'camera';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-alt::before {
+    content: 'camera_alt';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-front::before {
+    content: 'camera_front';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-rear::before {
+    content: 'camera_rear';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-camera-roll::before {
+    content: 'camera_roll';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-center-focus-strong::before {
+    content: 'center_focus_strong';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-center-focus-weak::before {
+    content: 'center_focus_weak';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-collections::before {
+    content: 'collections';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-collections-bookmark::before {
+    content: 'collections_bookmark';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-color-lens::before {
+    content: 'color_lens';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-colorize::before {
+    content: 'colorize';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-compare::before {
+    content: 'compare';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-control-point::before {
+    content: 'control_point';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-control-point-duplicate::before {
+    content: 'control_point_duplicate';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop::before {
+    content: 'crop';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-16-9::before {
+    content: 'crop_16_9';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-3-2::before {
+    content: 'crop_3_2';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-5-4::before {
+    content: 'crop_5_4';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-7-5::before {
+    content: 'crop_7_5';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-din::before {
+    content: 'crop_din';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-free::before {
+    content: 'crop_free';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-landscape::before {
+    content: 'crop_landscape';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-original::before {
+    content: 'crop_original';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-portrait::before {
+    content: 'crop_portrait';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-rotate::before {
+    content: 'crop_rotate';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-crop-square::before {
+    content: 'crop_square';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-dehaze::before {
+    content: 'dehaze';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-details::before {
+    content: 'details';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-edit::before {
+    content: 'edit';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure::before {
+    content: 'exposure';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-neg-1::before {
+    content: 'exposure_neg_1';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-neg-2::before {
+    content: 'exposure_neg_2';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-plus-1::before {
+    content: 'exposure_plus_1';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-plus-2::before {
+    content: 'exposure_plus_2';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-exposure-zero::before {
+    content: 'exposure_zero';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter::before {
+    content: 'filter';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-1::before {
+    content: 'filter_1';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-2::before {
+    content: 'filter_2';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-3::before {
+    content: 'filter_3';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-4::before {
+    content: 'filter_4';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-5::before {
+    content: 'filter_5';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-6::before {
+    content: 'filter_6';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-7::before {
+    content: 'filter_7';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-8::before {
+    content: 'filter_8';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-9::before {
+    content: 'filter_9';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-9-plus::before {
+    content: 'filter_9_plus';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-b-and-w::before {
+    content: 'filter_b_and_w';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-center-focus::before {
+    content: 'filter_center_focus';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-drama::before {
+    content: 'filter_drama';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-frames::before {
+    content: 'filter_frames';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-hdr::before {
+    content: 'filter_hdr';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-none::before {
+    content: 'filter_none';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-tilt-shift::before {
+    content: 'filter_tilt_shift';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-filter-vintage::before {
+    content: 'filter_vintage';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flare::before {
+    content: 'flare';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-auto::before {
+    content: 'flash_auto';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-off::before {
+    content: 'flash_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flash-on::before {
+    content: 'flash_on';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flip::before {
+    content: 'flip';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-gradient::before {
+    content: 'gradient';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grain::before {
+    content: 'grain';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grid-off::before {
+    content: 'grid_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-grid-on::before {
+    content: 'grid_on';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-off::before {
+    content: 'hdr_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-on::before {
+    content: 'hdr_on';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-strong::before {
+    content: 'hdr_strong';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hdr-weak::before {
+    content: 'hdr_weak';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-healing::before {
+    content: 'healing';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-image::before {
+    content: 'image';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-image-aspect-ratio::before {
+    content: 'image_aspect_ratio';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-iso::before {
+    content: 'iso';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-landscape::before {
+    content: 'landscape';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-leak-add::before {
+    content: 'leak_add';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-leak-remove::before {
+    content: 'leak_remove';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-lens::before {
+    content: 'lens';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-linked-camera::before {
+    content: 'linked_camera';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks::before {
+    content: 'looks';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-3::before {
+    content: 'looks_3';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-4::before {
+    content: 'looks_4';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-5::before {
+    content: 'looks_5';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-6::before {
+    content: 'looks_6';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-one::before {
+    content: 'looks_one';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-looks-two::before {
+    content: 'looks_two';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-loupe::before {
+    content: 'loupe';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-monochrome-photos::before {
+    content: 'monochrome_photos';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-movie-creation::before {
+    content: 'movie_creation';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-movie-filter::before {
+    content: 'movie_filter';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-music-note::before {
+    content: 'music_note';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-nature::before {
+    content: 'nature';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-nature-people::before {
+    content: 'nature_people';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigate-before::before {
+    content: 'navigate_before';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigate-next::before {
+    content: 'navigate_next';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-palette::before {
+    content: 'palette';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama::before {
+    content: 'panorama';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-fish-eye::before {
+    content: 'panorama_fish_eye';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-horizontal::before {
+    content: 'panorama_horizontal';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-vertical::before {
+    content: 'panorama_vertical';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-panorama-wide-angle::before {
+    content: 'panorama_wide_angle';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo::before {
+    content: 'photo';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-album::before {
+    content: 'photo_album';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-camera::before {
+    content: 'photo_camera';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-filter::before {
+    content: 'photo_filter';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-library::before {
+    content: 'photo_library';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-actual::before {
+    content: 'photo_size_select_actual';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-large::before {
+    content: 'photo_size_select_large';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-photo-size-select-small::before {
+    content: 'photo_size_select_small';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-picture-as-pdf::before {
+    content: 'picture_as_pdf';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-portrait::before {
+    content: 'portrait';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-remove-red-eye::before {
+    content: 'remove_red_eye';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-90-degrees-ccw::before {
+    content: 'rotate_90_degrees_ccw';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-left::before {
+    content: 'rotate_left';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rotate-right::before {
+    content: 'rotate_right';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-slideshow::before {
+    content: 'slideshow';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-straighten::before {
+    content: 'straighten';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-style::before {
+    content: 'style';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-switch-camera::before {
+    content: 'switch_camera';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-switch-video::before {
+    content: 'switch_video';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tag-faces::before {
+    content: 'tag_faces';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-texture::before {
+    content: 'texture';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timelapse::before {
+    content: 'timelapse';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer::before {
+    content: 'timer';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-10::before {
+    content: 'timer_10';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-3::before {
+    content: 'timer_3';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-timer-off::before {
+    content: 'timer_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tonality::before {
+    content: 'tonality';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-transform::before {
+    content: 'transform';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tune::before {
+    content: 'tune';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-view-comfy::before {
+    content: 'view_comfy';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-view-compact::before {
+    content: 'view_compact';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vignette::before {
+    content: 'vignette';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-auto::before {
+    content: 'wb_auto';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-cloudy::before {
+    content: 'wb_cloudy';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-incandescent::before {
+    content: 'wb_incandescent';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-iridescent::before {
+    content: 'wb_iridescent';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wb-sunny::before {
+    content: 'wb_sunny';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-add-location::before {
+    content: 'add_location';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-beenhere::before {
+    content: 'beenhere';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions::before {
+    content: 'directions';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-bike::before {
+    content: 'directions_bike';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-boat::before {
+    content: 'directions_boat';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-bus::before {
+    content: 'directions_bus';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-car::before {
+    content: 'directions_car';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-railway::before {
+    content: 'directions_railway';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-run::before {
+    content: 'directions_run';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-subway::before {
+    content: 'directions_subway';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-transit::before {
+    content: 'directions_transit';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-directions-walk::before {
+    content: 'directions_walk';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-edit-location::before {
+    content: 'edit_location';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ev-station::before {
+    content: 'ev_station';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-flight::before {
+    content: 'flight';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hotel::before {
+    content: 'hotel';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-layers::before {
+    content: 'layers';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-layers-clear::before {
+    content: 'layers_clear';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-activity::before {
+    content: 'local_activity';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-airport::before {
+    content: 'local_airport';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-atm::before {
+    content: 'local_atm';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-bar::before {
+    content: 'local_bar';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-cafe::before {
+    content: 'local_cafe';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-car-wash::before {
+    content: 'local_car_wash';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-convenience-store::before {
+    content: 'local_convenience_store';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-dining::before {
+    content: 'local_dining';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-drink::before {
+    content: 'local_drink';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-florist::before {
+    content: 'local_florist';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-gas-station::before {
+    content: 'local_gas_station';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-grocery-store::before {
+    content: 'local_grocery_store';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-hospital::before {
+    content: 'local_hospital';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-hotel::before {
+    content: 'local_hotel';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-laundry-service::before {
+    content: 'local_laundry_service';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-library::before {
+    content: 'local_library';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-mall::before {
+    content: 'local_mall';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-movies::before {
+    content: 'local_movies';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-offer::before {
+    content: 'local_offer';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-parking::before {
+    content: 'local_parking';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-pharmacy::before {
+    content: 'local_pharmacy';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-phone::before {
+    content: 'local_phone';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-pizza::before {
+    content: 'local_pizza';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-play::before {
+    content: 'local_play';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-post-office::before {
+    content: 'local_post_office';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-printshop::before {
+    content: 'local_printshop';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-see::before {
+    content: 'local_see';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-shipping::before {
+    content: 'local_shipping';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-local-taxi::before {
+    content: 'local_taxi';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-map::before {
+    content: 'map';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-my-location::before {
+    content: 'my_location';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-navigation::before {
+    content: 'navigation';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-near-me::before {
+    content: 'near_me';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-pin::before {
+    content: 'person_pin';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-pin-circle::before {
+    content: 'person_pin_circle';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pin-drop::before {
+    content: 'pin_drop';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-place::before {
+    content: 'place';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rate-review::before {
+    content: 'rate_review';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-restaurant::before {
+    content: 'restaurant';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-restaurant-menu::before {
+    content: 'restaurant_menu';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-satellite::before {
+    content: 'satellite';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-store-mall-directory::before {
+    content: 'store_mall_directory';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-streetview::before {
+    content: 'streetview';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subway::before {
+    content: 'subway';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-terrain::before {
+    content: 'terrain';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-traffic::before {
+    content: 'traffic';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-train::before {
+    content: 'train';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tram::before {
+    content: 'tram';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-transfer-within-a-station::before {
+    content: 'transfer_within_a_station';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-zoom-out-map::before {
+    content: 'zoom_out_map';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-apps::before {
+    content: 'apps';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-back::before {
+    content: 'arrow_back';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-downward::before {
+    content: 'arrow_downward';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-down::before {
+    content: 'arrow_drop_down';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-down-circle::before {
+    content: 'arrow_drop_down_circle';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-drop-up::before {
+    content: 'arrow_drop_up';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-forward::before {
+    content: 'arrow_forward';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-arrow-upward::before {
+    content: 'arrow_upward';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cancel::before {
+    content: 'cancel';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check::before {
+    content: 'check';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-chevron-left::before {
+    content: 'chevron_left';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-chevron-right::before {
+    content: 'chevron_right';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-close::before {
+    content: 'close';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-expand-less::before {
+    content: 'expand_less';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-expand-more::before {
+    content: 'expand_more';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-first-page::before {
+    content: 'first_page';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fullscreen::before {
+    content: 'fullscreen';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fullscreen-exit::before {
+    content: 'fullscreen_exit';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-last-page::before {
+    content: 'last_page';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-menu::before {
+    content: 'menu';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more-horiz::before {
+    content: 'more_horiz';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more-vert::before {
+    content: 'more_vert';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-refresh::before {
+    content: 'refresh';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subdirectory-arrow-left::before {
+    content: 'subdirectory_arrow_left';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-subdirectory-arrow-right::before {
+    content: 'subdirectory_arrow_right';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-adb::before {
+    content: 'adb';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-flat::before {
+    content: 'airline_seat_flat';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-flat-angled::before {
+    content: 'airline_seat_flat_angled';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-individual-suite::before {
+    content: 'airline_seat_individual_suite';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-extra::before {
+    content: 'airline_seat_legroom_extra';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-normal::before {
+    content: 'airline_seat_legroom_normal';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-legroom-reduced::before {
+    content: 'airline_seat_legroom_reduced';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-recline-extra::before {
+    content: 'airline_seat_recline_extra';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airline-seat-recline-normal::before {
+    content: 'airline_seat_recline_normal';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-bluetooth-audio::before {
+    content: 'bluetooth_audio';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-confirmation-number::before {
+    content: 'confirmation_number';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-disc-full::before {
+    content: 'disc_full';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb::before {
+    content: 'do_not_disturb';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-alt::before {
+    content: 'do_not_disturb_alt';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-off::before {
+    content: 'do_not_disturb_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-do-not-disturb-on::before {
+    content: 'do_not_disturb_on';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-drive-eta::before {
+    content: 'drive_eta';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-enhanced-encryption::before {
+    content: 'enhanced_encryption';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-available::before {
+    content: 'event_available';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-busy::before {
+    content: 'event_busy';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-event-note::before {
+    content: 'event_note';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-folder-special::before {
+    content: 'folder_special';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-live-tv::before {
+    content: 'live_tv';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mms::before {
+    content: 'mms';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-more::before {
+    content: 'more';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-check::before {
+    content: 'network_check';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-network-locked::before {
+    content: 'network_locked';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-no-encryption::before {
+    content: 'no_encryption';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ondemand-video::before {
+    content: 'ondemand_video';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-personal-video::before {
+    content: 'personal_video';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-bluetooth-speaker::before {
+    content: 'phone_bluetooth_speaker';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-forwarded::before {
+    content: 'phone_forwarded';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-in-talk::before {
+    content: 'phone_in_talk';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-locked::before {
+    content: 'phone_locked';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-missed::before {
+    content: 'phone_missed';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-phone-paused::before {
+    content: 'phone_paused';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-power::before {
+    content: 'power';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-priority-high::before {
+    content: 'priority_high';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sd-card::before {
+    content: 'sd_card';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sim-card-alert::before {
+    content: 'sim_card_alert';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sms::before {
+    content: 'sms';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sms-failed::before {
+    content: 'sms_failed';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync::before {
+    content: 'sync';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync-disabled::before {
+    content: 'sync_disabled';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sync-problem::before {
+    content: 'sync_problem';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-system-update::before {
+    content: 'system_update';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-tap-and-play::before {
+    content: 'tap_and_play';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-time-to-leave::before {
+    content: 'time_to_leave';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vibration::before {
+    content: 'vibration';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-voice-chat::before {
+    content: 'voice_chat';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-vpn-lock::before {
+    content: 'vpn_lock';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wc::before {
+    content: 'wc';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-wifi::before {
+    content: 'wifi';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-ac-unit::before {
+    content: 'ac_unit';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-airport-shuttle::before {
+    content: 'airport_shuttle';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-all-inclusive::before {
+    content: 'all_inclusive';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-beach-access::before {
+    content: 'beach_access';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-business-center::before {
+    content: 'business_center';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-casino::before {
+    content: 'casino';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-child-care::before {
+    content: 'child_care';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-child-friendly::before {
+    content: 'child_friendly';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-fitness-center::before {
+    content: 'fitness_center';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-free-breakfast::before {
+    content: 'free_breakfast';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-golf-course::before {
+    content: 'golf_course';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-hot-tub::before {
+    content: 'hot_tub';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-kitchen::before {
+    content: 'kitchen';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pool::before {
+    content: 'pool';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-room-service::before {
+    content: 'room_service';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-rv-hookup::before {
+    content: 'rv_hookup';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smoke-free::before {
+    content: 'smoke_free';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-smoking-rooms::before {
+    content: 'smoking_rooms';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-spa::before {
+    content: 'spa';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-cake::before {
+    content: 'cake';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-domain::before {
+    content: 'domain';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-group::before {
+    content: 'group';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-group-add::before {
+    content: 'group_add';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-location-city::before {
+    content: 'location_city';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mood::before {
+    content: 'mood';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-mood-bad::before {
+    content: 'mood_bad';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications::before {
+    content: 'notifications';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-active::before {
+    content: 'notifications_active';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-none::before {
+    content: 'notifications_none';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-off::before {
+    content: 'notifications_off';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-notifications-paused::before {
+    content: 'notifications_paused';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-pages::before {
+    content: 'pages';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-party-mode::before {
+    content: 'party_mode';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-people::before {
+    content: 'people';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-people-outline::before {
+    content: 'people_outline';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person::before {
+    content: 'person';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-add::before {
+    content: 'person_add';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-person-outline::before {
+    content: 'person_outline';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-plus-one::before {
+    content: 'plus_one';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-poll::before {
+    content: 'poll';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-public::before {
+    content: 'public';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-school::before {
+    content: 'school';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-dissatisfied::before {
+    content: 'sentiment_dissatisfied';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-neutral::before {
+    content: 'sentiment_neutral';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-satisfied::before {
+    content: 'sentiment_satisfied';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-very-dissatisfied::before {
+    content: 'sentiment_very_dissatisfied';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-sentiment-very-satisfied::before {
+    content: 'sentiment_very_satisfied';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-share::before {
+    content: 'share';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-whatshot::before {
+    content: 'whatshot';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check-box::before {
+    content: 'check_box';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-check-box-outline-blank::before {
+    content: 'check_box_outline_blank';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-indeterminate-check-box::before {
+    content: 'indeterminate_check_box';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-radio-button-checked::before {
+    content: 'radio_button_checked';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-radio-button-unchecked::before {
+    content: 'radio_button_unchecked';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star::before {
+    content: 'star';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star-border::before {
+    content: 'star_border';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/etc/mixins/icons.scss:8 */
+.md-icon-star-half::before {
+    content: 'star_half';
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Component.scss:67 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 400;
+    font-style: normal;
+    src: local('Roboto Regular'), local('Roboto-Regular'), url("../../modern/resources/fonts/roboto/Roboto-Regular.ttf") format('truetype');
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Component.scss:75 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 100;
+    font-style: normal;
+    src: local('Roboto Light'), local('Roboto-Light'), url("../../modern/resources/fonts/roboto/Roboto-Light.ttf") format('truetype');
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Component.scss:84 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 600;
+    font-style: normal;
+    src: local('Roboto Medium'), local('Roboto-Medium'), url("../../modern/resources/fonts/roboto/Roboto-Medium.ttf") format('truetype');
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Component.scss:93 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: 900;
+    font-style: normal;
+    src: local('Roboto Bold'), local('Roboto-Bold'), url("../../modern/resources/fonts/roboto/Roboto-Bold.ttf") format('truetype');
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Component.scss:102 */
+@font-face {
+    font-family: 'Roboto';
+    font-weight: normal;
+    font-style: italic;
+    src: local('Roboto Italic'), local('Roboto-Italic'), url("../../modern/resources/fonts/roboto/Roboto-Italic.ttf") format('truetype');
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Component.scss:113 */
+@font-face {
+    font-family: 'Material Icons';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Material Icons'), local('MaterialIcons-Regular'), url("../../modern/resources/fonts/MaterialIcons-Regular.ttf") format('truetype');
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Component.scss:122 */
+html,
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #111;
+    color: var(--color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Indicator.scss:1 */
+.x-indicator span {
+    transition: background-color 0.25s ease-out, width 0.1s ease-out, height 0.1s ease-out;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/list/TreeItem.scss:1 */
+.x-gridcell.x-treelist-item {
+    border: none;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Button.scss:10 */
+.x-button-fab .x-inner-el {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.18), 2px 2px 5px 0 rgba(0, 0, 0, 0.12);
+    z-index: 2;
+    color: #222;
+    color: var(--accent-foreground-color);
+    display: flex;
+    width: 56px;
+    height: 56px;
+    background-color: #ff9800;
+    background-color: var(--accent-color);
+    align-items: center;
+    justify-content: center;
+    border-radius: 50%;
+    transition: background-color 450ms cubic-bezier(0.23, 1, 0.32, 1);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Button.scss:23 */
+.x-button-fab .x-ripple {
+    background-color: #222;
+    background-color: var(--accent-foreground-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Button.scss:27 */
+.x-button-fab.x-hovered .x-inner-el {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Button.scss:31 */
+.x-keyboard-mode .x-button-fab.x-focused .x-inner-el {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Button.scss:36 */
+.x-big .x-button-fab .x-inner-el {
+    border-radius: 50%;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Button.scss:41 */
+.x-button-fab .x-icon-el {
+    color: #222;
+    color: var(--accent-foreground-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Button.scss:46 */
+.x-button-fab.x-pressing .x-inner-el {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.21), 2px 2px 6px 0 rgba(0, 0, 0, 0.18);
+    z-index: 3;
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Button.scss:48 */
+.x-button-fab.x-pressing .x-inner-el .x-icon-el {
+    color: #222;
+    color: var(--accent-foreground-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Button.scss:57 */
+.x-docked-top .x-has-badge .x-badge-el {
+    top: -8px;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Button.scss:63 */
+.x-has-badge .x-badge-el {
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    text-align: center;
+    display: block;
+    overflow: hidden;
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.12), 2px 2px 5px 0 rgba(0, 0, 0, 0.08);
+    z-index: 1;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Toolbar.scss:1 */
+.x-toolbar-body-el {
+    overflow: visible;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Toolbar.scss:6 */
+.x-toolbar-body-el > .x-title {
+    transition: 0.25s padding ease-out;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Panel.scss:3 */
+.x-panelheader .x-field {
+    background-color: transparent;
+    border-bottom-color: rgba(255, 255, 255, 0.38);
+    border-bottom-color: var(--reverse-disabled-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Panel.scss:7 */
+.x-panelheader .x-field .x-label-el {
+    color: #ff9800;
+    color: var(--accent-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Panel.scss:11 */
+.x-panelheader .x-field.x-focused {
+    border-bottom-color: #ff9800;
+    border-bottom-color: var(--accent-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Panel.scss:17 */
+.x-panelheader .x-input .x-cleartrigger .x-icon-el {
+    color: #fff;
+    color: var(--base-foreground-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Panel.scss:22 */
+.x-panelheader .x-input .x-input-el {
+    -webkit-text-fill-color: #fff;
+    -webkit-text-fill-color: var(--base-foreground-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Panel.scss:28 */
+.x-panelheader .x-toggleslider.x-on {
+    background-color: #ffb74d;
+    background-color: var(--accent-pressed-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/Panel.scss:32 */
+.x-panelheader .x-toggleslider.x-on .x-thumb:after {
+    background-color: #ff9800;
+    background-color: var(--accent-color);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/dataview/ItemHeader.scss:2 */
+.x-itemheader.x-pinned {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.12), 2px 2px 5px 0 rgba(0, 0, 0, 0.08);
+    z-index: 3;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/dataview/SimpleListItem.scss:1 */
+.x-listitem-disclosure .x-icon-el {
+    transition: background-color 0.28s cubic-bezier(0.4, 0, 0.2, 1);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/dataview/IndexBar.scss:1 */
+.x-indexbar-indicator {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.18), 2px 2px 5px 0 rgba(0, 0, 0, 0.12);
+    z-index: 2;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/slider/Slider.scss:2 */
+.x-slider .x-thumb {
+    transition: transform 0.15s ease-out;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/slider/Slider.scss:5 */
+.x-slider .x-thumb:active {
+    -webkit-transform: scale(1.5);
+    transform: scale(1.5);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/slider/Slider.scss:9 */
+.x-slider .x-thumb.x-disabled:active {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/slider/Toggle.scss:1 */
+.x-toggleslider .x-thumb {
+    box-shadow: 2px 2px 5px 0 rgba(0, 0, 0, 0.12), 2px 2px 5px 0 rgba(0, 0, 0, 0.08);
+    z-index: 1;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/slider/Toggle.scss:4 */
+.x-toggleslider .x-thumb:active {
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/tab/Bar.scss:2 */
+.x-tabbar-body-el {
+    overflow: visible;
+    padding: 0;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/ext/modern/theme-material/sass/src/tab/Bar.scss:6 */
+.x-big .x-tabbar-body-el {
+    padding: 0;
+}
+/* /Users/nitishbiswas/Documents/Playground/GridEditScroll/modern/src/view/main/List.scss:5 */
+.bold {
+    /*
+ * This file contains styling for the main List view.
+ */
+    font-weight: 500;
+}
